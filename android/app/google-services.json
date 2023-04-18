@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642620370082",
+    "project_id": "onion-health",
+    "storage_bucket": "onion-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642620370082:android:13071588f2de6f9dc33bfb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_complete_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642620370082-plt8orclle89ofblmrggk9hnr90nf1dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ6eYanjIwBW2gvD72MmNr1llnxpVEbis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642620370082-plt8orclle89ofblmrggk9hnr90nf1dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
